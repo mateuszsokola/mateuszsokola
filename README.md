@@ -1,18 +1,18 @@
 ### Mateush, here.
 
-I’m a jack of all trades and master of none — but I kinda like learning and trying new things.
+I'm a jack of all trades because I like learning and trying new things.
 
-* I know Python, a bit.
-* I know JavaScript, a bit.
-* I know Java, a tiny bit.
-* I know vim, a tiny bit.
-* I know AWS, a bit... but I wouldn’t say that I love it.
-* Did one project in Rust, and it’s pretty cool. 
+**Tech I work with:**
+* Python and JavaScript — my main tools, use them daily.
+* Solidity — writing staking apps and smart contracts for @stakefish.
+* Java, Go — know my way around the basics.
+* Rust — did one project, and it's pretty cool.
+* AWS — I can build and ship full apps on my own using CloudFormation & CDK. Wouldn't say I love it, but I get things done.
 
-Few facts
-* I am based in Dubai but I’m a digital nomad, kinda.
-* I hate commuting, but I’ve got a good remote job, and that makes me happy.
-* I created an online course on building the [2048 game in React & Next.js](https://www.mateu.sh/learn-nextjs/) that nobody is watching.
+**A few facts:**
+* I'm based in Dubai but I'm a digital nomad, kinda.
+* I hate commuting, but I've got a good remote job, and that makes me happy.
+* I built an online course on [building the 2048 game in React & Next.js](https://www.udemy.com/course/2048-in-react-and-nextjs/?referralCode=AC3FD6336BAB9C402106) - it had its moments but now almost nobody is watching it.
 
-----
-PS. Sometimes, I write tutorials and record screencasts. Whenever I do, I publish the code here.
+---
+PS. Sometimes I write tutorials and record screencasts. Whenever I do, I publish the code here.
