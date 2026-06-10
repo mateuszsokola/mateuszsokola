@@ -4,7 +4,7 @@ I'm a jack of all trades because I like learning and trying new things.
 
 **Tech I work with:**
 * Python and JavaScript — my main tools, use them daily.
-* Solidity — writing staking apps and smart contracts for @stakefish.
+* Solidity — writing staking apps and smart contracts for [@stakefish](https://github.com/stakefish).
 * Java, Go — know my way around the basics.
 * Rust — did one project, and it's pretty cool.
 * AWS — I can build and ship full apps on my own using CloudFormation & CDK. Wouldn't say I love it, but I get things done.
